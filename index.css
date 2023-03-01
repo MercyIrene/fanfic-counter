@@ -1,0 +1,55 @@
+html {
+    min-height:100%;
+}
+
+body {
+    background-image: url("https://lh3.googleusercontent.com/p/AF1QipP_rEn0mw9VmzXNs9WcWt0Lg04k95WO6d8ycLA=s680-w680-h510");
+    background-size: cover;     
+    font-family: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',  sans-serif;
+    font-weight: bold;
+    text-align: center;
+     height: 100%;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    font-size: 19px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+#increment-btn {
+    background: red;
+}
+
+#save-btn {
+    background: green;
+}
+
+#save-el {
+    color: white;
+    font-weight: normal;
+    font-size: 25px;
+}
+
+div {
+    max-width: 80%;
+    margin: auto;
+}
+
